@@ -6,9 +6,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBoges&layout=compact&show_icons=true&bg_color=0D1117&border_radius=4.5&border_color=30363D&title_color=267cf7&text_color=FFFFFF&theme=transparent">
 </div>
 
-### Skills ⚡️
+### ️Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,py,fastapi,php,laravel,postgres,mysql,mongodb,docker)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)
+
 
 ### Formas de Contato
   
