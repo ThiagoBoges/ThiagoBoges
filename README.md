@@ -8,7 +8,7 @@
 
 ### Skills ⚡️
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,py,fastapi,postgres,mysql,mongodb,linux,docker,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,py,fastapi,php,laravel,postgres,mysql,mongodb,docker)](https://skillicons.dev)
 
 ### Formas de Contato
   
