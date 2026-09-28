@@ -28,9 +28,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" title="Go" />
-  <img src="https://skillicons.dev/icons?i=js" title="React" />
-  <img src="https://skillicons.dev/icons?i=html" title="Python" />
-  <img src="https://skillicons.dev/icons?i=css" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
   <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
