@@ -1,9 +1,9 @@
 # Olá! Sou Thiago Borges 👋
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Analista de Suporte N1
-- 🚀 Desenvolvedor Full Stack em formação
+- 💻 Desenvolvedor Full Stack em formação
 - ⚙️ Foco em desenvolvimento Back-end
+- 🖥️ Experiência com Suporte Técnico N1
 
 ---
 
@@ -54,12 +54,12 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoBorges&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ThiagoBorges&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBorges&layout=compact&langs_count=8&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBorges&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
   />
 
 </div>
@@ -89,17 +89,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake.svg"
   />
 
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
