@@ -2,7 +2,6 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💻 Desenvolvedor Full Stack em formação
-- ⚙️ Foco em desenvolvimento Back-end
 - 🖥️ Experiência com Suporte Técnico N1
 
 ---
