@@ -13,9 +13,8 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor **Full Stack em formação**
 - 🖥️ Experiência com **Suporte Técnico N1**
-- 🚀 Atualmente estudando e criando projetos com tecnologias de front-end e back-end
+- 🚀 Atualmente estudando e criando projetos com tecnologias Full Stack, Análise de Dados e IA
 
 ## 🚀 Tecnologias
 
