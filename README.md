@@ -1,105 +1,51 @@
-# Olá! Sou Thiago Borges 👋
+<div align="center">
+  <img src="./assets/thiago-borges.png" width="260" alt="Thiago Borges estudando programação" />
+  <h1>Olá, eu sou o Thiago Borges 👋</h1>
+  <h3>Desenvolvedor Full Stack em formação</h3>
+  <p>Análise e Desenvolvimento de Sistemas · Suporte Técnico N1</p>
+  <a href="https://www.linkedin.com/in/thiago-borges-43265931a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor Full Stack em formação
-- 🖥️ Experiência com Suporte Técnico N1
+- 💻 Desenvolvedor **Full Stack em formação**
+- 🖥️ Experiência com **Suporte Técnico N1**
+- 🚀 Atualmente estudando e criando projetos com tecnologias de front-end e back-end
 
----
-
-## 🚀 Technologies
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
-  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
-</div>
-
----
-
-## 💻 Tecnologias que também utilizo
+## 🚀 Tecnologias
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" title="Go" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vue,php,laravel" alt="Python, FastAPI, React, Vue.js, PHP e Laravel" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker" alt="PostgreSQL, MySQL, MongoDB e Docker" />
 </div>
 
----
-
-## 🛠️ Tools
+## 🌱 Também estudo e utilizo
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=go,c,aws,flutter,angular,redis" alt="Go, C, AWS, Flutter, Angular e Redis" />
 </div>
 
----
+## 🛠️ Ferramentas
 
-## 📊 GitHub Stats
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman e Visual Studio Code" />
+</div>
+
+## 📊 GitHub
 
 <div align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoBorges&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBorges&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-  />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThiagoBoges&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Thiago" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBoges&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais usadas por Thiago" />
 </div>
 
----
+## 📫 Contato
 
-## 📫 Formas de Contato
-
-<div align="left">
-
-  <a href="https://www.linkedin.com/in/thiago-borges-43265931a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
-  </a>
-
-  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
-  </a>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ThiagoBorges/ThiagoBorges/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
+<a href="https://www.linkedin.com/in/thiago-borges-43265931a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Thiago Borges" />
+</a>
