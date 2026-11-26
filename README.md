@@ -48,3 +48,12 @@
 <a href="https://www.linkedin.com/in/thiago-borges-43265931a/">
   <img src="https://img.shields.io/badge/LinkedIn-Thiago%20Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Thiago Borges" />
 </a>
+
+
+## 🐍 Cobrinha das minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoBoges/ThiagoBoges/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoBoges/ThiagoBoges/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/ThiagoBoges/ThiagoBoges/output/github-contribution-grid-snake.svg" />
+</picture>
